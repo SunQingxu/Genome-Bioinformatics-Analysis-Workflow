@@ -1,10 +1,10 @@
 <details>
 <summary>附录：软件列表</summary>
 
-|模块/功能|软件名称|版本|网址 |
-|---|---|---|--- |
-|镜像|singularity|3.7.0|https://singularity.lbl.gov |
-|过滤|SOAPnuke|v2.2.1|https://github.com/BGI-flexlab/SOAPnuke |
+|模块/功能|软件名称|版本|网址|
+|---|---|---|---|
+|镜像|singularity|3.7.0|https://singularity.lbl.gov|
+|过滤|SOAPnuke|v2.2.1|https://github.com/BGI-flexlab/SOAPnuke|
 |比对|BWA|v0.7.17|http://bio-bwa.sourceforge.net/|
 |比对|samtools|1.3|http://www.htslib.org/|
 |去重|GATK MarkDuplicates|v4.1.4.1|https://gatk.broadinstitute.org/hc/en-us|
