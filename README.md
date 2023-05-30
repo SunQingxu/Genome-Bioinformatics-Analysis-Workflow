@@ -1,6 +1,6 @@
 # 基因组分析流程汇总
 本流程集成原WGS与WES标准分析流程，以及肿瘤分析。流程总体结构如下方分析流程图所示：
-![image](https://github.com/viczai-123/Genome-Bioinformatics-Analysis-Workflow/assets/63091613/00c72312-5c10-4292-b36a-a1430a7a1e2e)
+![image](https://github.com/viczai-123/Genome-Bioinformatics-Analysis-Workflow/assets/63091613/2ad8c9f0-849f-4bd3-8b5d-5691065a528c)
 
 本流程采取模块化思路构建，基于依赖关系生成脚本，用pymonitor进行任务的投递、监控，最后生成静态结题报告。
 本流程使用方法简单，且针对脚本进行并行化处理，以最大限度压缩信息分析周期，对于多样品项目极为便利，可达到快速、高效、准确交付给客户结果的目的。
