@@ -1,5 +1,6 @@
-#<details>
-<summary>附录：软件列表</summary>
+<details>
+#<summary>附录：软件列表</summary>
+附录：软件列表
 
 |模块/功能|软件名称|版本|网址 |
 |---|---|---|--- |
