@@ -1,5 +1,5 @@
-#<details>
-#<summary>附录：软件列表</summary>
+<details>
+<summary>附录：软件列表</summary>
 附录：软件列表
 
 |模块/功能|软件名称|版本|网址 |
@@ -46,4 +46,4 @@
 |分子分型|ConsensusClusterPlus|1.50.0|http://bioconductor.org/packages/devel/bioc/html/ConsensusClusterPlus.html|
 |新抗原预测|polysolver|v4|https://software.broadinstitute.org/cancer/cga/polysolver|
 |新抗原预测|NetMHCpan|4.1b|http://www.cbs.dtu.dk/services/NetMHCpan/|
-</details>
+#</details>
