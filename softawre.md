@@ -45,4 +45,4 @@
 |分子分型|ConsensusClusterPlus|1.50.0|http://bioconductor.org/packages/devel/bioc/html/ConsensusClusterPlus.html|
 |新抗原预测|polysolver|v4|https://software.broadinstitute.org/cancer/cga/polysolver|
 |新抗原预测|NetMHCpan|4.1b|http://www.cbs.dtu.dk/services/NetMHCpan/|
-#</details>
+</details>
