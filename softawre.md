@@ -1,4 +1,4 @@
-<details>
+#<details>
 #<summary>附录：软件列表</summary>
 附录：软件列表
 
